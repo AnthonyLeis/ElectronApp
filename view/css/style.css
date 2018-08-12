@@ -1,0 +1,20 @@
+html {
+  background: green;
+}
+h1 {
+  font-size: 32px;
+  font-family: Impact, Charcoal, sans-serif;
+  color: red;
+  margin: 25px auto;
+  text-align: center;
+}
+label {
+    display: block;
+    text-align: right;
+    width: 69.5%;
+}
+button {
+  margin: auto;
+  width: 75px;
+  display: block;
+}
